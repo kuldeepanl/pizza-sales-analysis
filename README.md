@@ -4,6 +4,7 @@
 
 - [Features](#features)
 - [Data Analysis with SQL](#data-analysis-with-sql)
+- [Insights and Recommendations](#Insights and Recommendations)
 ## Features
 
 - **Daily and Monthly Trends**: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
@@ -17,5 +18,7 @@
 ## Data Analysis with SQL
    - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="Project pizza.sql">sql_sales_analysis.sql</a> of this repository.
 
+## Insights and Recommendations
 
+Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
 
