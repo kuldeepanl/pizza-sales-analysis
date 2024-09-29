@@ -21,3 +21,7 @@
 - **Pizza Size Analysis**: Examine the distribution of pizza sales by size, enabling you to tailor your menu based on customer choices.
 
 - **Top-Selling Pizzas**: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
+
+- 1. **Data Analysis with SQL**:
+   - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="pizza_sales_analysis.sql">sql_sales_analysis.sql</a> of this repository.
+
