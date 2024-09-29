@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Data Analysis with SQL](#Data Analysis with SQL)
 - [Data Analysis with SQL](#data-analysis-with-sql)
 - [Creating Dashboards with Power BI](#creating-dashboards-with-power-bi)
 - [Dashboard Overview](#dashboard-overview)
