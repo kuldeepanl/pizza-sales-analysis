@@ -16,7 +16,7 @@
 - **Top-Selling Pizzas**: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
 
 ## Data Analysis with SQL
-   - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="Project pizza.sql">sql_sales_analysis.sql</a> of this repository.
+The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="Project pizza.sql">sql_sales_analysis.sql</a> of this repository:
    - Identifying the daily and monthly trends of the pizzas sold and the revenue generated.
    - Identifying the top-selling pizzas based on revenue, quantity, and total orders.
    - Identify the least-selling pizzas based on revenue, quantity, and total orders.
