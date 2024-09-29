@@ -4,13 +4,6 @@
 
 - [Features](#features)
 - [Data Analysis with SQL](#data-analysis-with-sql)
-- [Creating Dashboards with Power BI](#creating-dashboards-with-power-bi)
-- [Dashboard Overview](#dashboard-overview)
-- [How to Use the Dashboard](#how-to-use-the-dashboard)
-- [Contributors](#contributors)
-- [Feedback and Contributions](#feedback-and-contributions)
-- [License](#license)
-- 
 ## Features
 
 - **Daily and Monthly Trends**: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
@@ -23,4 +16,6 @@
 
 ## Data Analysis with SQL
    - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="Project pizza.sql">sql_sales_analysis.sql</a> of this repository.
+
+
 
