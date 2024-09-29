@@ -1,5 +1,17 @@
 # pizza-sales-analysis
 ![12dd881e-bb64-4894-9613-ff32bd6c50cc](https://github.com/user-attachments/assets/afda840b-718b-4f75-b2e4-cfa301bf7870)
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Data Analysis with SQL](#data-analysis-with-sql)
+- [Creating Dashboards with Power BI](#creating-dashboards-with-power-bi)
+- [Dashboard Overview](#dashboard-overview)
+- [How to Use the Dashboard](#how-to-use-the-dashboard)
+- [Contributors](#contributors)
+- [Feedback and Contributions](#feedback-and-contributions)
+- [License](#license)
+- 
 ## Features
 
 - **Daily and Monthly Trends**: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
