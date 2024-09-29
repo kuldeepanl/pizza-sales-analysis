@@ -4,7 +4,7 @@
 
 - [Features](#features)
 - [Data Analysis with SQL](#data-analysis-with-sql)
-- [Insights and Recommendations](#Insights and Recommendations)
+- [Feedback and Contributions](#feedback-and-contributions)
 ## Features
 
 - **Daily and Monthly Trends**: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
